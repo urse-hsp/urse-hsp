@@ -37,7 +37,7 @@
 
 我是一个充满创意、喜欢探索新技术的编程爱好者，致力于创造有趣和实用的项目。
 
-我的开源 -  My open source
+
 插件 Plugins
 个人开源 I 
 个人demo
@@ -45,22 +45,17 @@
 公司开源 Company open source
 
 落实
-Plugins 我的插件
-Template_[name] 我的模板
-Demo_[name] 我的demo
-Demo-Project_[name] 我的demo项目
-project 我的项目
-Firm 公司项目
+Firm_[name] 公司项目
 Open source 开源的
+Collection 收藏
 -->
 
 
-
-
-
-
-
-
+## 🔭 我的项目分类介绍 【前缀】
+Plugins_[name] 我的开源/插件
+Template_[name] 我的模板
+Demo_[name] 我的demo
+Project_[name] 我的项目/demo项目（一个整体的项目）
 
 
 
