@@ -45,12 +45,13 @@
 公司开源 Company open source
 
 落实
-Plugins 插件
-template_[name] 模板
-demo_[name] 我的demo
-demo-Project_[name] 我的demo项目
+Plugins 我的插件
+Template_[name] 我的模板
+Demo_[name] 我的demo
+Demo-Project_[name] 我的demo项目
 project 我的项目
-Company 公司项目
+Firm 公司项目
+Open source 开源的
 -->
 
 
