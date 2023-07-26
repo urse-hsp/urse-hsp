@@ -52,10 +52,10 @@ Collection 收藏
 
 
 ## 🔭 我的项目分类介绍 【前缀】
-Plugins_[name] 我的开源/插件
-Template_[name] 我的模板
-Demo_[name] 我的demo
-Project_[name] 我的项目/demo项目（一个整体的项目）
+- Plugins_[name] 我的开源/插件
+- Template_[name] 我的模板
+- Demo_[name] 我的demo
+- Project_[name] 我的项目/demo项目（一个整体的项目）
 
 
 
